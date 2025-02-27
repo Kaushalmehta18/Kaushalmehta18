@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Kaushal and I'm a Front-end Developer  && Data Analyst</h2>
-
+<h2 align="left">Hi 👋! My name is Kaushal and Welcome to my GitHub Profile </h2>
+<h2 align="left"> "Emerging Software Developer with Strong Java, Python, and JavaScript Capabilities | Passionate about AI and Machine Learning" </h2>
 ###
 
 <div align="center">
