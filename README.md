@@ -1,5 +1,7 @@
+###
 <h2 align="center">Hi 👋! My name is Kaushal and Welcome to my GitHub Profile </h2>
 <h3 align="center"> "Emerging Software Developer with Strong Java, Python, and JavaScript Capabilities | Passionate about AI and Machine Learning" </h3>
+
 ###
 
 <div align="center">
